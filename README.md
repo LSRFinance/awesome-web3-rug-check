@@ -1,8 +1,8 @@
 # Awesome Web3 Rug Check
 
-Curated list of tocken rug checkers, threat scanners, contract audit tools, etc.
+Curated list of rug checkers, token security scanners, contract vulnerability audit tools, etc.
 
-[![License: CC-BY-SA](https://img.shields.io/github/license/LSRFinance/awesome-web3-rug-check)](https://creativecommons.org/licenses/by-sa/4.0/)
+[License: CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 # Table of Contents

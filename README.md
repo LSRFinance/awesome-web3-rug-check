@@ -42,8 +42,10 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
   - [RugScreen](https://rugscreen.com/Main/Index)
   - [DexAnalyzer](https://www.dexanalyzer.io/analyzer)
   - [Fraudlr](https://fraudl.com/)
+  - [QuillCheck](https://quillcheck.quillaudits.com/)
 - website, socials, reviews, etc.
-  - [IsThisCoinAScam](https://isthiscoinascam.com/) - metadata (socials, website) check
+  - [IsThisCoinAScam](https://isthiscoinascam.com/)
+  - [KryptView](https://kryptview.com/)
 
 ## Browser Extensions
 - avoid phishing websites
@@ -51,11 +53,18 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
   - [Web3 Antivirus](https://web3antivirus.io/)
   - [ThreatSlayer](https://www.interlock.network/post/web-3-meet-threatslayer)
   - [Trend Micro Check](https://www.trendmicro.com/en_us/forHome/products/trend-micro-check.html)
+- avoid twitter scams
+  - [SafeSoul](https://safesoul.club/)
 - avoid risky transactions (simulate in advance & evaluate risk)
   - [Stelo](https://www.stelolabs.com/)
   - [Blowfish](https://extension.blowfish.xyz/)
   - [Pocket Universe](https://www.pocketuniverse.app/)
   - [Wallet Guard](https://www.walletguard.app/)
+  - [Scam Sniffer](https://www.scamsniffer.io/extension/)
+  - [Trust Check](https://trustcheck.xyz/)
+  - [Blockem](https://www.blockem.io/)
+  - [Harpie](https://harpie.io/)
+  - [Nefture](https://www.nefture.com/)
 - add risk badges to the chain explorers (bscscan, etherscan, ...)
   - [MetaDock](https://blocksec.com/metadock)
 
@@ -86,8 +95,10 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
 - [Web3Rekt](https://www.web3rekt.com/intro-new-users/)
 - [De.Fi Rekt](https://de.fi/rekt-database)
 - [ScamRadar](https://www.reddit.com/r/scam_radar/)
+- [Dapp Radar](https://github.com/dappradar/tokens-blacklist)
 
 
 ## Security Lists
 - [Web3 Security Tools](https://github.com/Quillhash/Web3-Security-Tools) by [Quillhash](https://www.quillaudits.com/smart-contract-audit)
 - [On Chain Investigations Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) by [OffcierCia](https://officercia.mirror.xyz/)
+- [Top Security Tools](https://www.alchemy.com/top/security-tools) by [Alchemy](https://www.alchemy.com/)

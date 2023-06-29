@@ -29,6 +29,7 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
     - [HoneypotIs](https://honeypot.is/)
     - [DetectHoneypot](https://detecthoneypot.com/)
     - [TheRugCheck](https://therugcheck.com/bsc/)
+  - [CertiK Skynet](https://skynet.certik.com/)
   - [AvengerDAO](https://www.avengerdao.org/riskScanner)
   - [GoPlusLabs](https://gopluslabs.io/token-security/)
   - [TokenSniffer](https://tokensniffer.com/)

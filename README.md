@@ -104,6 +104,7 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
 - [De.Fi Rekt](https://de.fi/rekt-database)
 - [ScamRadar](https://www.reddit.com/r/scam_radar/)
 - [Dapp Radar](https://github.com/dappradar/tokens-blacklist)
+- [RugPullFinder](https://www.rugpullfinder.io/)
 
 
 ### Security Lists

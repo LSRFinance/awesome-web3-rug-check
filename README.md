@@ -107,6 +107,7 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
 
 
 ### Security Lists
+- [Contract vulnerability scanners](https://github.com/Consensys/smart-contract-best-practices/blob/master/docs/security-tools/static-and-dynamic-analysis.md) by [Consensys](https://github.com/Consensys)
 - [Web3 Security Tools](https://github.com/Quillhash/Web3-Security-Tools) by [Quillhash](https://www.quillaudits.com/smart-contract-audit)
 - [On Chain Investigations Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) by [OffcierCia](https://officercia.mirror.xyz/)
 - [Top Security Tools](https://www.alchemy.com/top/security-tools) by [Alchemy](https://www.alchemy.com/)

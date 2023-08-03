@@ -88,6 +88,7 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
 - [ScamAlert](https://scam-alert.io)
 - [CryptoScamDB](https://cryptoscamdb.org/)
 - [CryptoScamReport](https://www.reddit.com/r/CryptoScamReport/)
+- [GreySafe](https://greysafe.com/)
 
 
 # Knowledge Bank

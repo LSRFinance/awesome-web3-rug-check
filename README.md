@@ -64,6 +64,9 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
   - [Blockem](https://www.blockem.io/)
   - [Harpie](https://harpie.io/)
   - [Nefture](https://www.nefture.com/)
+  - [Fire](https://www.joinfire.xyz/)
+  - [Militereum](https://militereum.com/)
+  - [Gatekeep](https://gatekeep.xyz/)
 - avoid twitter scams
   - [SafeSoul](https://safesoul.club/)
 - add risk badges to the chain explorers (bscscan, etherscan, ...)

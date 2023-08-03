@@ -69,6 +69,9 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
 - add risk badges to the chain explorers (bscscan, etherscan, ...)
   - [MetaDock](https://blocksec.com/metadock)
 
+### Address security scanners
+- [Forta](https://docs.forta.network/en/latest/scam-detector-bot/)
+
 
 ## Mitigaion
 

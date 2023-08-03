@@ -44,6 +44,7 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
   - [DexAnalyzer](https://www.dexanalyzer.io/analyzer)
   - [Fraudlr](https://fraudl.com/)
   - [QuillCheck](https://quillcheck.quillaudits.com/)
+  - [poocoin/rugcheck](https://poocoin.app/rugcheck)
 - website, socials, reviews, etc.
   - [IsThisCoinAScam](https://isthiscoinascam.com/)
   - [KryptView](https://kryptview.com/)

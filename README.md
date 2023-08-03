@@ -5,7 +5,7 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
 [License: CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
-# Table of Contents
+## Table of Contents
 - [Prevention](#prevention)
   - [Token Security Scanners](#token-security-scanners)
   - [Browser Extensions](#browser-extensions)
@@ -17,9 +17,9 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
     - [Security Lists](#security-lists)
 
 
-# Prevention
+## Prevention
 
-## Token Security Scanners
+### Token Security Scanners
 - contract vulnerabilities
   - [SolidityScan](https://solidityscan.com/)
   - [CyberScan](https://www.cyberscope.io/cyberscan)
@@ -48,14 +48,12 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
   - [IsThisCoinAScam](https://isthiscoinascam.com/)
   - [KryptView](https://kryptview.com/)
 
-## Browser Extensions
+### Browser Extensions
 - avoid phishing websites
   - [AegisWeb3](https://www.aegisweb3.com/)
   - [Web3 Antivirus](https://web3antivirus.io/)
   - [ThreatSlayer](https://www.interlock.network/post/web-3-meet-threatslayer)
   - [Trend Micro Check](https://www.trendmicro.com/en_us/forHome/products/trend-micro-check.html)
-- avoid twitter scams
-  - [SafeSoul](https://safesoul.club/)
 - avoid risky transactions (simulate in advance & evaluate risk)
   - [Stelo](https://www.stelolabs.com/)
   - [Blowfish](https://extension.blowfish.xyz/)
@@ -66,13 +64,15 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
   - [Blockem](https://www.blockem.io/)
   - [Harpie](https://harpie.io/)
   - [Nefture](https://www.nefture.com/)
+- avoid twitter scams
+  - [SafeSoul](https://safesoul.club/)
 - add risk badges to the chain explorers (bscscan, etherscan, ...)
   - [MetaDock](https://blocksec.com/metadock)
 
 
-# Mitigaion
+## Mitigaion
 
-## Permission Revokers
+### Permission Revokers
 - by chain explorers
   - [Bscscan TokenApprovalChecker](https://www.bscscan.com/tokenapprovalchecker)
   - [Polygonscan TokenApprovalChecker](https://polygonscan.com/tokenapprovalchecker)
@@ -83,7 +83,7 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
   - [beefy.finance](https://allowance.beefy.finance/)
   - [unrekt](https://app.unrekt.net/)
 
-## Scam reports
+### Scam reports
 - [ChainAbuse](https://www.chainabuse.com/)
 - [ScamAlert](https://scam-alert.io)
 - [CryptoScamDB](https://cryptoscamdb.org/)
@@ -91,16 +91,16 @@ Curated list of rug checkers, token security scanners, contract vulnerability au
 - [GreySafe](https://greysafe.com/)
 
 
-# Knowledge Bank
+## Knowledge Bank
 
-## Scam Databases
+### Scam Databases
 - [Web3Rekt](https://www.web3rekt.com/intro-new-users/)
 - [De.Fi Rekt](https://de.fi/rekt-database)
 - [ScamRadar](https://www.reddit.com/r/scam_radar/)
 - [Dapp Radar](https://github.com/dappradar/tokens-blacklist)
 
 
-## Security Lists
+### Security Lists
 - [Web3 Security Tools](https://github.com/Quillhash/Web3-Security-Tools) by [Quillhash](https://www.quillaudits.com/smart-contract-audit)
 - [On Chain Investigations Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) by [OffcierCia](https://officercia.mirror.xyz/)
 - [Top Security Tools](https://www.alchemy.com/top/security-tools) by [Alchemy](https://www.alchemy.com/)

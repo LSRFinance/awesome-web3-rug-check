@@ -59,6 +59,7 @@ Following tools are browser extensions that help to protect your wallet.
 - [Web3 Antivirus](https://web3antivirus.io/)
 - [ThreatSlayer](https://www.interlock.network/post/web-3-meet-threatslayer)
 - [Trend Micro Check](https://www.trendmicro.com/en_us/forHome/products/trend-micro-check.html)
+- [Blowfish](https://docs.blowfish.xyz/reference/download-blocklist)
 
 [SafeSoul](https://safesoul.club/) protects from twitter (or now "X") scams
 

@@ -44,6 +44,7 @@ Usual threats include honeypot (unsellable), high taxes, liquidity concentration
 - [CyberScan](https://www.cyberscope.io/cyberscan)
 - [Moonarch](https://moonarch.app)
 - [Fraudlr](https://fraudl.com/)
+- [rugpulldetector](http://rugpulldetector.com/)
 
 #### 2.4. Project: contacts, community, listings, ...
 - [IsThisCoinAScam](https://isthiscoinascam.com/)

@@ -92,6 +92,7 @@ Following tools are browser extensions that help to protect your wallet.
 - [Revoke.cash](https://revoke.cash/)
 - [beefy.finance](https://allowance.beefy.finance/)
 - [unrekt](https://app.unrekt.net/)
+- [De.Fi Shield](https://de.fi/shield)
 
 
 ---

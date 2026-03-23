@@ -23,6 +23,7 @@
 - [BscCheck](https://www.bscheck.eu)
 - [quickintel](https://app.quickintel.io/scanner)
 - [HAPI Labs](https://terminal.hapilabs.one/guest-address-check/)
+- [RegPilot](https://regpilot.io) - Consumer-friendly token trust scores for Solana and EVM chains. Instant 0-100 safety score covering smart contract risk, liquidity, holder distribution, audit status and on-chain red flags. Free. No wallet required.
 
 [CertiK Skynet](https://skynet.certik.com/) stands out by covering an exceptionally broad range of information (for a limited set of tokens).
 

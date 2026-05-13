@@ -23,6 +23,7 @@
 - [BscCheck](https://www.bscheck.eu)
 - [quickintel](https://app.quickintel.io/scanner)
 - [HAPI Labs](https://terminal.hapilabs.one/guest-address-check/)
+- [Sharpe Rug Check](https://www.sharpe.ai/rug-check)
 
 [CertiK Skynet](https://skynet.certik.com/) stands out by covering an exceptionally broad range of information (for a limited set of tokens).
 

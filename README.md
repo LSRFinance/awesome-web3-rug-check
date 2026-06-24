@@ -121,3 +121,7 @@ Following tools are browser extensions that help to protect your wallet.
 - [Top Security Tools](https://www.alchemy.com/top/security-tools) by [Alchemy](https://www.alchemy.com/)
 - [On Chain Investigations Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) by [OffcierCia](https://officercia.mirror.xyz/)
 - [Contract vulnerability scanners](https://github.com/Consensys/smart-contract-best-practices/blob/master/docs/security-tools/static-and-dynamic-analysis.md) by [Consensys](https://github.com/Consensys)
+
+
+## Web3 & Security
+- [MetaVision CVE Oracle](https://metavision.click/cve) - Web3 vulnerability scanner. 355k+ CVEs from NVD, specialized in Ethereum/Solidity/DeFi. Rug pull detection via ChainAware. Free: 3/day, API: POST /cve {"keyword": "ethereum"}

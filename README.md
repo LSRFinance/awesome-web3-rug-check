@@ -11,6 +11,7 @@
 ## Token Rug Checking
 ### 1. Multi-threat
 - [TokenSniffer](https://tokensniffer.com/)
+- [RugBuster](https://rugbuster.io/)
 - [StaySAFU](https://app.staysafu.org/scanner)
 - [GoPlusLabs](https://gopluslabs.io/token-security/)
 - [AvengerDAO](https://www.avengerdao.org/riskScanner)

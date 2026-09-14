@@ -29,6 +29,7 @@
 Usual threats include honeypot (unsellable), high taxes, liquidity concentration and locks, supply concentration, contract exploits.
 
 
+- [HostDeFi](https://hostdefi.com/scan)
 ### 2. Single-threat
 #### 2.1. Honeypot
 - [HONEYPOT.is](https://honeypot.is/)

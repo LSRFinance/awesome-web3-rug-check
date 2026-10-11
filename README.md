@@ -51,6 +51,7 @@ Usual threats include honeypot (unsellable), high taxes, liquidity concentration
 #### 2.4. Project: contacts, community, listings, ...
 - [IsThisCoinAScam](https://isthiscoinascam.com/)
 - [KryptView](https://kryptview.com/)
+- [CryptoStrapon](https://cryptostrapon.com/scam-detector)
 
 
 ---
